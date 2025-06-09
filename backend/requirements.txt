@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+PyPDF2
+transformers
+torch
+spacy
+python-dotenv
+requests
