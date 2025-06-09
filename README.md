@@ -19,7 +19,7 @@ Provides actionable tips to improve the resume's impact.
 File Upload Support
 Upload resume in .txt or .pdf format for instant analysis.
 
-🛠️ Tech Stack
+Tech Stack
 Frontend	Backend	AI/NLP
 React.js	FastAPI (Python)	Hugging Face Transformers
 HTML, CSS, JavaScript	RESTful API	BERT / Roberta models
